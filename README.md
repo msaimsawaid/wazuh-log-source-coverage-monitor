@@ -264,7 +264,7 @@ Example inventory entry:
 
 ### Screenshot
 
-![New Source Detected](screenshots/new-source-detected.png)
+![New Source Detected](screenshots/new-source-detection.png)
 
 ---
 
@@ -601,7 +601,7 @@ Testing scenarios included:
 
 ## New Source Detection
 
-![New Source Detection](screenshots/new-source-detected.png)
+![New Source Detection](screenshots/new-source-detection.png)
 
 ## Inventory
 

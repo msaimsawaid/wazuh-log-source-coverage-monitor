@@ -1,0 +1,28 @@
+{
+    "sources": [
+        {
+            "agent_id": "001",
+            "name": "ubuntu-agent-1",
+            "ip": "192.168...",
+            "status": "active"
+        },
+        {
+            "agent_id": "002",
+            "name": "ubuntu-agent-2",
+            "ip": "192.168.10...",
+            "status": "active"
+        },
+        {
+            "agent_id": "003",
+            "name": "ubuntu-agent-3",
+            "ip": "192.168.10...",
+            "status": "active"
+        },
+        {
+            "agent_id": "004",
+            "name": "ubuntu-agent-4",
+            "ip": "192.168.10...",
+            "status": "active"
+        }
+    ]
+}
